@@ -1,0 +1,6 @@
+PoetryDiffusion/
+*.csv
+*.tsv
+__pycache__
+*.zip
+/fulltraining

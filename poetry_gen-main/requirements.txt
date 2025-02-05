@@ -1,0 +1,16 @@
+datasets
+evaluate
+morfessor
+protobuf
+sacrebleu
+sacremoses
+sentencepiece
+transformers
+peft
+bitsandbytes
+tokenizers
+torch
+torchvision
+torchaudio
+git+https://github.com/VarunGumma/indic_nlp_library
+git+https://github.com/VarunGumma/IndicTransTokenizer

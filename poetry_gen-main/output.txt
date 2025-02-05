@@ -1,0 +1,12 @@
+Model stats:
+trainable params: 589,824 || all params: 244,606,976 || trainable%: 0.2411
+Model: trained_models/ai4bharat.IndicBART/01-01T15.15
+Model stats:
+trainable params: 589,824 || all params: 244,606,976 || trainable%: 0.2411
+Model: trained_models/ai4bharat.IndicBART/01-01T15.17
+Model stats:
+trainable params: 589,824 || all params: 244,606,976 || trainable%: 0.2411
+Model stats:
+trainable params: 589,824 || all params: 244,606,976 || trainable%: 0.2411
+Model: trained_models/ai4bharat.IndicBART/01-01T15.18
+=================================Start of train=================================
